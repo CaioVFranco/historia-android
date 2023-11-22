@@ -27,7 +27,7 @@
 
 body{
     background-color: #faebd7;
-    margin: auto;
+    margin: auto;  
     font-family: var(--fonte-padrao);
 }
 
@@ -135,17 +135,17 @@ div.video > iframe{
 }
 
 #dandroid{
-    display: block;
+    display: flex;
     margin: auto;
 }
 
 #irina{
-    display: block;
+    display: flex;
     margin: auto;
 }
 
 #bugdroid{
-    display: block;
+    display: flex;
     margin: auto;
     max-width: 400px;
     width: 100%;
