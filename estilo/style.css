@@ -91,9 +91,14 @@ main{
 }
 
 @media (max-width: 450px) {
+    nav {
+        padding: 4px;
+    }
+    
     main {
         margin: 0px;
     }
+    
 }
 
 p>a{
